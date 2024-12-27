@@ -1,0 +1,23 @@
+
+
+.weather-card {
+      width: 18rem;
+      background: linear-gradient(135deg, #56CCF2, #2F80ED);
+      color: white;
+      border-radius: 15px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      margin-top: 20%;
+      margin-left: 40%;
+      padding: 20px;
+    }
+    .weather-icon {
+      font-size: 5rem;
+    }
+    .temperature {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+    .description {
+      text-transform: capitalize;
+    }
